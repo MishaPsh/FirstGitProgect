@@ -1,3 +1,2 @@
 Hello world!
-qwerty
 Good bye!
