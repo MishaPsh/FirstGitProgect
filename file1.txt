@@ -1,5 +1,5 @@
 Hello world!
 qwerty
 Good bye!
-Another line from user1
-Line from use1
+Line from user2
+Line from user1
