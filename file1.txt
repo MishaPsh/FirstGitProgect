@@ -3,4 +3,5 @@ qwerty
 Good bye!
 Line from user2
 Line from user1
+Same new featur
 
